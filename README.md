@@ -84,7 +84,7 @@ Skills: C / Java / JS / HTML / CSS
 
 <p align="center">
   <a href="https://github.com/seyam-bhuiyan">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=seyam-bhuiyan&theme=radical" alt="Harun's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=seyam-bhuiyan&theme=radical" alt="Seyam's GitHub Contribution"/>
   </a>
 </p>
 
@@ -94,7 +94,7 @@ Skills: C / Java / JS / HTML / CSS
   <br/>
 </a>
 
-![Seyam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=seyam-bhuiyan&custom_title=Harun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Seyam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=seyam-bhuiyan&custom_title=Seyam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <br/>
 
