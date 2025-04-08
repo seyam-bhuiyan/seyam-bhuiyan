@@ -21,12 +21,12 @@ Skills: C / Java / JS / HTML / CSS
 
 - 📫 How to reach me **jiseyam15@gmail.com**
 
-- 📄 All About Me:[https://lnk.bio/tutul181](https://lnk.bio/tutul181)
+- 📄 All About Me: <!--[https://lnk.bio/tutul181](https://lnk.bio/tutul181) -->
 
 <h3 align="left">Connect with me:</h3>
 
 <p align="center">
-<a href="[https://fb.com/tutul181](https://www.facebook.com/jihadul.islam.seyam.612663)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tutul181" height="30" width="40" /></a>
+<a href="[https://www.facebook.com/jihadul.islam.seyam.612663]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tutul181" height="30" width="40" /></a>
 <!-- <a href="https://twitter.com/tutul181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tutul181" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/seyam-bhuiyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="seyam-bhuiyan" height="30" width="40" /></a>
 <a href="https://codepen.io/seyam-bhuiyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="seyam-bhuiyan" height="30" width="40" /></a>
