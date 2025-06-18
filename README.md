@@ -7,7 +7,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=seyam-bhuiyan&color=red)
 
-Skills: C / Java / JS / HTML / CSS
+Skills: C / Java / JS / HTML / CSS / Bootstrap
 
 </div>
 
