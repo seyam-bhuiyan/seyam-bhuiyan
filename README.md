@@ -1,4 +1,4 @@
-![I am seyam-bhuiyan](https://github.com/seyam-bhuiyan/seyam-bhuiyan/blob/main/code.png)
+![I am seyam-bhuiyan](https://github.com/seyam-bhuiyan/seyam-bhuiyan/blob/main/static.png)
 
 <h1 align="center">Hi 👋, I'm Jihadul Islam Seyam</h1>
 <h3 align="center">Programmer | Web Designer | Running Student | Speed Learner</h3>
