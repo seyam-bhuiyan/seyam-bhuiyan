@@ -1,5 +1,5 @@
 ![I am seyam-bhuiyan](https://github.com/seyam-bhuiyan/seyam-bhuiyan/blob/main/static.png)
-<img src="https://github.com/seyam-bhuiyan/seyam-bhuiyan/blob/main/static.png" alt="">  
+<img src="https://github.com/seyam-bhuiyan/seyam-bhuiyan/blob/main/static.png" alt="" align="center">  
 <h1 align="center">Hi 👋, I'm Jihadul Islam Seyam</h1>
 <h3 align="center">Programmer | Web Designer | Running Student | Speed Learner</h3>
 
