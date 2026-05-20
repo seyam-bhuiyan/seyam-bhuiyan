@@ -26,7 +26,13 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="center">
-<a href="https://www.facebook.com/jihadul.islam.seyam.612663" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tutul181" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/jihadul.islam.seyam.612663" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" style="margin-right: 15px;" />
+  </a>
+  <a href="YOUR_SECOND_LINK_HERE" target="blank">
+    <img align="center" src="YOUR_SECOND_ICON_URL_HERE" alt="Second Icon" height="40" />
+  </a>
+</p>
 <!-- <a href="https://twitter.com/tutul181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tutul181" height="30" width="40" /></a> -->
 <a href="https://www.linkedin.com/in/jihadul-islam-seyam-497a6135a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="seyam-bhuiyan" height="30" width="40" /></a>
 <!-- <a href="https://codepen.io/seyam-bhuiyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="seyam-bhuiyan" height="30" width="40" /></a>
