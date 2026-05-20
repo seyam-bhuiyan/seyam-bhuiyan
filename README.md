@@ -30,8 +30,8 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="40" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="YOUR_SECOND_LINK_HERE" target="_blank">
-    <img src="YOUR_SECOND_ICON_URL_HERE" alt="Second Icon" height="40" width="40" />
+  <a href="YOUR_LINKEDIN_PROFILE_URL_HERE" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
   </a>
 </p>
 <!-- <a href="https://twitter.com/tutul181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tutul181" height="30" width="40" /></a> -->
