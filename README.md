@@ -1,7 +1,7 @@
 <!--  ![I am seyam-bhuiyan](https://github.com/seyam-bhuiyan/seyam-bhuiyan/blob/main/code.png) -->
 
 <h1 align="center">Hi 👋, I'm Jihadul Islam Seyam</h1>
-<h3 align="center">Programmer | Web Designer | Running Student | Speed Learner</h3>
+<h3 align="center">Programmer | Web Designer | Running Student | App Developer | Speed Learner</h3>
 
 <div align="center">
 
