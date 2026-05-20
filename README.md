@@ -26,11 +26,12 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="center">
-  <a href="https://www.facebook.com/jihadul.islam.seyam.612663" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" style="margin-right: 15px;" />
+  <a href="https://www.facebook.com/jihadul.islam.seyam.612663" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="40" />
   </a>
-  <a href="YOUR_SECOND_LINK_HERE" target="blank">
-    <img align="center" src="YOUR_SECOND_ICON_URL_HERE" alt="Second Icon" height="40" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="YOUR_SECOND_LINK_HERE" target="_blank">
+    <img src="YOUR_SECOND_ICON_URL_HERE" alt="Second Icon" height="40" width="40" />
   </a>
 </p>
 <!-- <a href="https://twitter.com/tutul181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tutul181" height="30" width="40" /></a> -->
