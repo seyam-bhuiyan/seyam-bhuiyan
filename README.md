@@ -1,4 +1,4 @@
-![I am seyam-bhuiyan](https://github.com/seyam-bhuiyan/seyam-bhuiyan/blob/main/code.png)
+<!--  ![I am seyam-bhuiyan](https://github.com/seyam-bhuiyan/seyam-bhuiyan/blob/main/code.png) -->
 
 <h1 align="center">Hi 👋, I'm Jihadul Islam Seyam</h1>
 <h3 align="center">Programmer | Web Designer | Running Student | Speed Learner</h3>
@@ -15,7 +15,7 @@ Skills: C / Java / JS / HTML / CSS / Bootstrap
 
 - 🌱 I’m currently learning C, Java, Python
 
-- 👨‍💻 All of my projects are available at [https://github.com/seyam-bhuiyan](https://github.com/seyam-bhuiyan)
+- 👨‍💻 All of my projects are available at [https://seyamcodes.vercel.app/](https://seyamcodes.vercel.app/)
 
 - 💬 Ask me about **HTML5, CSS3, Java**
 
