@@ -13,13 +13,13 @@ Skills: C / Java / JS / HTML / CSS / Bootstrap
 
 - 🔭 I’m currently learning
 
-- 🌱 I’m currently learning C, Java, Python
+- 🌱 I’m currently learning C, Java,JS,React,Mysql, Python, Dart, Flutter
 
 - 👨‍💻 All of my projects are available at [https://seyamcodes.vercel.app/](https://seyamcodes.vercel.app/)
 
-- 💬 Ask me about **HTML5, CSS3, Java**
+- 💬 Ask me about **HTML5, CSS3, Java, JS, React, Python, Dart**
 
-- 📫 How to reach me **jiseyam15@gmail.com**
+- 📫 How to reach me **seyam.code@gmail.com**
 
 - 📄 All About Me: <!--[https://lnk.bio/tutul181](https://lnk.bio/tutul181) -->
 
