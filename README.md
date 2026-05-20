@@ -21,7 +21,7 @@ Skills: C / Java / JS / HTML / CSS / Bootstrap
 
 - 📫 How to reach me **seyam.code@gmail.com**
 
-- 📄 All About Me: <!--[https://lnk.bio/tutul181](https://lnk.bio/tutul181) -->
+- 📄 All About Me: (https://seyamcodes.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 
