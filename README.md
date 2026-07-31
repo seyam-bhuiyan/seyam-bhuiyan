@@ -1,6 +1,6 @@
 <!-- Banner Image / Header -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/git.svg" width="60" alt="Logo">
+  <img src="https://raw.githubusercontent.com/seyam-bhuiyan/seyam-bhuiyan/main/code.png" width="100" alt="Logo" style="border-radius: 50%;">
 </p>
 
 <h1 align="center">Hi 👋, I'm Jihadul Islam Seyam</h1>
@@ -51,6 +51,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=seyam-bhuiyan&show_icons=true&count_private=true&theme=tokyonight&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" width="48%" />
+  <img src="https://img.shields.io/badge/dynamic/json?label=Snake&query=message&url=https%3A%2F%2Fimg.shields.io%2Fbadge%2Fstatus-active-success" hidden />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seyam-bhuiyan&langs_count=8&layout=compact&theme=tokyonight&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" width="48%" />
 </p>
 
