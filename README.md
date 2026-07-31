@@ -29,7 +29,7 @@
 
 ---
 
-### 🐍 Contribution Snake Game Animation
+### 🐍 Contribution
 <p align="center">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/seyam-bhuiyan/seyam-bhuiyan/output/github-contribution-grid-snake-dark.svg">
 </p>
