@@ -11,11 +11,10 @@
 ---
 
 ### 💻 About Me
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=15&duration=4000&pause=1000&color=38B2AC&center=false&vCenter=true&width=700&height=40&lines=🌱+I%E2%80%99m+currently+learning+C%2C+Java%2C+JS%2C+React%2C+MySQL%2C+Python%2C+Dart%2C+Flutter;👨%E2%80%8D💻+All+of+my+projects+are+available+at+seyamcodes.vercel.app;💬+Ask+me+about+HTML5%2C+CSS3%2C+Java%2C+JS%2C+React%2C+Python%2C+Dart" alt="Typing About Me" />
-</p>
-
-- 📫 How to reach me **seyam.code@gmail.com**
+- 🌱 I’m currently learning **C, Java, JS, React, MySQL, Python, Dart, & Flutter**.
+- 👨‍💻 All of my projects are available at [seyamcodes.vercel.app](https://seyamcodes.vercel.app/)
+- 💬 Ask me about **HTML5, CSS3, Java, JS, React, Python, Dart**.
+- 📫 How to reach me **[seyam.code@gmail.com](mailto:seyam.code@gmail.com)**
 
 ---
 
