@@ -42,15 +42,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seyam-bhuiyan&show_icons=true&theme=tokyonight&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seyam-bhuiyan&langs_count=8&layout=compact&theme=tokyonight&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" width="48%" />
-</p>
-
----
-
 ### 🐍 Contribution Snake Game Animation
 <p align="center">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/seyam-bhuiyan/seyam-bhuiyan/output/github-contribution-grid-snake-dark.svg">
