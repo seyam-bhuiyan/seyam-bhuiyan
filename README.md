@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=F85D7F&center=true&vCenter=true&width=600&height=60&lines=Hi+👋%2C+I'm+Jihadul+Islam+Seyam" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=F85D7F&center=true&vCenter=true&width=750&height=60&lines=Hi+👋%2C+I'm+Jihadul+Islam+Seyam" alt="Typing SVG" />
 </h1>
 <h3 align="center">Programmer | Web Designer | App Developer | Speed Learner 🚀</h3>
 
