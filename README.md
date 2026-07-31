@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=seyam-bhuiyan&color=00f2fe&style=flat-square&label=PROFILE+VIEWS" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=seyam-bhuiyan&color=F85D7F&style=flat-square&label=PROFILE+VIEWS&cacheBust=true" alt="Profile views"/>
   <img src="https://img.shields.io/github/followers/seyam-bhuiyan?color=7F3FBF&style=flat-square&logo=github&label=Followers" alt="GitHub Followers"/>
 </p>
 
