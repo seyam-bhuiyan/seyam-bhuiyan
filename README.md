@@ -1,123 +1,86 @@
-<!--  ![I am seyam-bhuiyan](https://github.com/seyam-bhuiyan/seyam-bhuiyan/blob/main/code.png) -->
+<!-- Banner Image / Header -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/git.svg" width="60" alt="Logo">
+</p>
 
 <h1 align="center">Hi 👋, I'm Jihadul Islam Seyam</h1>
-<h3 align="center">Programmer | Web Designer | Running Student | App Developer | Speed Learner</h3>
-
-<div align="center">
-
-![Profile views](https://komarev.com/ghpvc/?username=seyam-bhuiyan&color=red)
-
-<!--Skills: C / Java / JS / HTML / CSS / Bootstrap-->
-
-</div>
-
-- 🔭 I’m currently learning
-
-- 🌱 I’m currently learning C, Java,JS,React,Mysql, Python, Dart, Flutter
-
-- 👨‍💻 All of my projects are available at [https://seyamcodes.vercel.app/](https://seyamcodes.vercel.app/)
-
-- 💬 Ask me about **HTML5, CSS3, Java, JS, React, Python, Dart**
-
-- 📫 How to reach me **seyam.code@gmail.com**
-
-- 📄 All About Me: https://seyamcodes.vercel.app/
-
-<h3 align="left">Connect with me:</h3>
-
-<p align="center"><a href="https://www.facebook.com/seyam.code/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/jihadul-islam-seyam-497a6135a/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" /></a></p>
-<!-- <a href="https://twitter.com/tutul181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tutul181" height="30" width="40" /></a> -->
-<a href="https://www.linkedin.com/in/jihadul-islam-seyam-497a6135a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="seyam-bhuiyan" height="30" width="40" /></a>
-<!-- <a href="https://codepen.io/seyam-bhuiyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="seyam-bhuiyan" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCttZMJCI9L9PbfJkQw7o-0Q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Learn With Tutul" height="30" width="40" /></a>
-<a href="https://instagram.com/tutul_181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tutul_181" height="30" width="40" /></a>
-<a href="https://dribbble.com/seyam-bhuiyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="seyam-bhuiyan" height="30" width="40" /></a>
-<a href="https://www.behance.net/seyam-bhuiyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="seyam-bhuiyan" height="30" width="40" /></a>
-</p> -->
-
-## Use To Code
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![Tailwind CSS](https://img.shields.io/badge/tailwind_css-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-<!--
-
-![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
-
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Ant-Design](https://img.shields.io/badge/AntDesign-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
-
-![Strapi](https://img.shields.io/badge/strapi-2E7EEA?style=for-the-badge&logo=strapi&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
-
-
-<br/>
-
-## Best Repo -
-
-[![Java Projects](https://github-readme-stats.vercel.app/api/pin/?username=seyam-bhuiyan&repo=Java-Project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/seyam-bhuiyan/Java-Project)
-[![100+ C Problems](https://github-readme-stats.vercel.app/api/pin/?username=seyam-bhuiyan&repo=100_plus_C_Problems&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/seyam-bhuiyan/100_plus_C_Problems)
-[![Front End Projects](https://github-readme-stats.vercel.app/api/pin/?username=seyam-bhuiyan&repo=front_end_projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/seyam-bhuiyan/front_end_projects)
-[![Weblitical](https://github-readme-stats.vercel.app/api/pin/?username=seyam-bhuiyan&repo=weblitical&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/seyam-bhuiyan/weblitical)
-
-<p align="left">
-  <a href="https://github.com/seyam-bhuiyan?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
-
-<br/>
-<hr/>
-<br/>
--->
-## Github Stats -
+<h3 align="center">Programmer | Web Designer | App Developer | Speed Learner 🚀</h3>
 
 <p align="center">
-  <a href="https://github.com/seyam-bhuiyan">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=seyam-bhuiyan&theme=radical" alt="Seyam's GitHub Contribution"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=seyam-bhuiyan&color=00f2fe&style=flat-square&label=PROFILE+VIEWS" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/seyam-bhuiyan?color=7F3FBF&style=flat-square&logo=github&label=Followers" alt="GitHub Followers"/>
 </p>
 
-<a> 
-    <a href="https://github.com/seyam-bhuiyan"><img alt="Harun's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=seyam-bhuiyan&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/seyam-bhuiyan"><img alt="Harun's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=seyam-bhuiyan&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+---
+
+### 💻 About Me
+- 🌱 I’m currently learning **C, Java, JS, React, MySQL, Python, Dart, & Flutter**.
+- 👨‍💻 All of my projects are available at [seyamcodes.vercel.app](https://seyamcodes.vercel.app/)
+- 💬 Ask me about **HTML5, CSS3, Java, JS, React, Python, Dart**.
+- 📫 How to reach me **seyam.code@gmail.com**
+
+---
+
+### ⚡ Tech Stack & Tools
+
+<p align="center">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <br/>
-</a>
+  <!-- Frontend & Frameworks -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <br/>
+  <!-- Databases & Tools -->
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
 
-![Seyam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=seyam-bhuiyan&custom_title=Seyam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+---
 
-<br/>
+### 📊 GitHub Stats
 
-<br/>
-<!--
-## Connect with me
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=seyam-bhuiyan&show_icons=true&count_private=true&theme=tokyonight&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seyam-bhuiyan&langs_count=8&layout=compact&theme=tokyonight&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" width="48%" />
+</p>
 
-<div align="center">
-<br/>
-<a href="https://twitter.com/tutul181" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px; margin-right: 2px;" />
-</a>
-<a href="https://www.linkedin.com/in/seyam-bhuiyan/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px; margin-right: 2px;" />
-</a>
-<a href="https://www.facebook.com/tutul181" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px; margin-right: 2px;" />
-</a>  
-</div>
--->
+---
+
+### 🐍 Contribution Snake Game Animation
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/seyam-bhuiyan/seyam-bhuiyan/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/seyam-bhuiyan/seyam-bhuiyan/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/seyam-bhuiyan/seyam-bhuiyan/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+---
+
+### 📈 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=seyam-bhuiyan&custom_title=Seyam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=7F3FBF&title_color=FFFFFF&area=true" width="100%" />
+</p>
+
+---
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+  <a href="https://www.facebook.com/seyam.code/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/jihadul-islam-seyam-497a6135a/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
+  </a>
+</p>
