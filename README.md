@@ -2,9 +2,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=F85D7F&center=true&vCenter=true&width=800&height=60&lines=Hi+👋%2C+I'm+Jihadul+Islam+Seyam" alt="Typing SVG" />
 </h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=700&height=50&lines=Programmer+%7C+Web+Designer+%7C+App+Developer+%7C+Speed+Learner+%F0%9F%9A%80" alt="Typing Subheader" />
-</p>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=750&height=50&lines=Programmer+%7C+Web+Designer+%7C+App+Developer+%7C+Speed+Learner" alt="Typing Subheader" /> 🚀
+</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=seyam-bhuiyan&color=00f2fe&style=flat-square&label=PROFILE+VIEWS" alt="Profile views"/>
