@@ -1,7 +1,3 @@
-<!-- Banner Image / Header -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/seyam-bhuiyan/seyam-bhuiyan/main/code.png" width="120" alt="Logo">
-</p>
 
 <h1 align="center">Hi 👋, I'm Jihadul Islam Seyam</h1>
 <h3 align="center">Programmer | Web Designer | App Developer | Speed Learner 🚀</h3>
