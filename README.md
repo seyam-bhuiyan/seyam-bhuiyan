@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Jihadul Islam Seyam</h1>
 <h3 align="center">Programmer | Web Designer | App Developer | Speed Learner 🚀</h3>
 
