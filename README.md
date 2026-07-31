@@ -11,9 +11,10 @@
 ---
 
 ### 💻 About Me
-- 🌱 I’m currently learning **C, Java, JS, React, MySQL, Python, Dart, & Flutter**.
-- 👨‍💻 All of my projects are available at [seyamcodes.vercel.app](https://seyamcodes.vercel.app/)
-- 💬 Ask me about **HTML5, CSS3, Java, JS, React, Python, Dart**.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=15&duration=4000&pause=1000&color=38B2AC&center=false&vCenter=true&width=700&height=40&lines=🌱+I%E2%80%99m+currently+learning+C%2C+Java%2C+JS%2C+React%2C+MySQL%2C+Python%2C+Dart%2C+Flutter;👨%E2%80%8D💻+All+of+my+projects+are+available+at+seyamcodes.vercel.app;💬+Ask+me+about+HTML5%2C+CSS3%2C+Java%2C+JS%2C+React%2C+Python%2C+Dart" alt="Typing About Me" />
+</p>
+
 - 📫 How to reach me **seyam.code@gmail.com**
 
 ---
@@ -21,25 +22,7 @@
 ### ⚡ Tech Stack & Tools
 
 <p align="center">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <br/>
-  <!-- Frontend & Frameworks -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <br/>
-  <!-- Databases & Tools -->
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=c,java,javascript,python,dart,html,css,react,flutter,tailwind,mysql,git,vscode&perline=6" alt="Tech Stack Icons" />
 </p>
 
 ---
