@@ -29,9 +29,9 @@
 
 ---
 
-### 🏆 GitHub Trophies
+### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=seyam-bhuiyan&theme=tokyonight&no-bg=true&no-frame=true&row=1&column=4" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=seyam-bhuiyan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
 </p>
 
 ---
