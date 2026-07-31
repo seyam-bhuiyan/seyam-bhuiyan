@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=F85D7F&center=true&vCenter=true&width=750&height=60&lines=Hi+👋%2C+I'm+Jihadul+Islam+Seyam" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=F85D7F&center=true&vCenter=true&width=800&height=60&lines=Hi+👋%2C+I'm+Jihadul+Islam+Seyam" alt="Typing SVG" />
 </h1>
 <h3 align="center">Programmer | Web Designer | App Developer | Speed Learner 🚀</h3>
 
@@ -47,6 +47,13 @@
 ### 🐍 Contribution Snake Game Animation
 <p align="center">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/seyam-bhuiyan/seyam-bhuiyan/output/github-contribution-grid-snake-dark.svg">
+</p>
+
+---
+
+### 🔥 GitHub Streak Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=seyam-bhuiyan&theme=tokyonight&border=7F3FBF&background=0D1117&fire=F85D7F&sideLabels=true" alt="GitHub Streak" />
 </p>
 
 ---
