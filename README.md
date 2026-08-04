@@ -15,7 +15,7 @@
 
 ### 💻 About Me
 - 🌱 I’m currently learning **C, Java, JS, React, MySQL, Python, Dart, & Flutter**.
-- 👨‍💻 All of my projects are available at [seyamcodes.vercel.app](https://seyamcodes.vercel.app/)
+- 👨‍💻 All of my projects are available at [seyamcodes.vercel.app](https://jiseyam.vercel.app/)
 - 💬 Ask me about **HTML5, CSS3, Java, JS, React, Python, Dart**.
 - 📫 How to reach me **[seyam.code@gmail.com](mailto:seyam.code@gmail.com)**
 
