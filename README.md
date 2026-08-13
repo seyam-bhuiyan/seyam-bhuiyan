@@ -38,7 +38,7 @@
 
 ### 🔥 GitHub Streak Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=seyam-bhuiyan&theme=tokyonight&border=7F3FBF&background=0D1117&fire=F85D7F&sideLabels=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jiseyam&theme=tokyonight&border=7F3FBF&background=0D1117&fire=F85D7F&sideLabels=true" alt="GitHub Streak" />
 </p>
 
 ---
