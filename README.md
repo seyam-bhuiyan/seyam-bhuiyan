@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=seyam-bhuiyan&color=F85D7F&style=flat-square&label=PROFILE+VIEWS&cacheBust=true" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/seyam-bhuiyan?color=7F3FBF&style=flat-square&logo=github&label=Followers" alt="GitHub Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=jiseyam&color=F85D7F&style=flat-square&label=PROFILE+VIEWS&cacheBust=true" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/jiseyam?color=7F3FBF&style=flat-square&logo=github&label=Followers" alt="GitHub Followers"/>
 </p>
 
 ---
@@ -31,7 +31,7 @@
 
 ### 🐍 Contributions
 <p align="center">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/seyam-bhuiyan/seyam-bhuiyan/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jiseyam/jiseyam/output/github-contribution-grid-snake-dark.svg">
 </p>
 
 ---
@@ -46,7 +46,7 @@
 ### 📈 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=seyam-bhuiyan&custom_title=Seyam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=7F3FBF&title_color=FFFFFF&area=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jiseyam&custom_title=Seyam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=7F3FBF&title_color=FFFFFF&area=true" width="100%" />
 </p>
 
 ---
